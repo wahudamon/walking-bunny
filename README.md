@@ -1,4 +1,4 @@
-### Walking Bunny Animation
+## Walking Bunny Animation
 
 ![Walking Bunny](img/rabbit_walk.gif)
 
